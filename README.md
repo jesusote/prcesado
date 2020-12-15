@@ -1,1 +1,1 @@
-# Este es el repositorio de Procesador de la Señal
+# Este es el repositorio de Procesado de la Señal
